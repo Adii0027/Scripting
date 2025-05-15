@@ -9,3 +9,5 @@ echo "my new JDK home is=$JDK_HOME"
 
 echo "updated 123456"
 echo "update 2nd "
+echo "update 2nd "echo "update 2nd "
+echo "update 2nd "
